@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brendaphans123
-- 👀 I’m interested in building my skills in coding
-- 🌱 I’m currently learning JavaScript
-- 💞️ I have experience in python scripting for data processing
+- 👀 I’m interested in building my critical thinking, analytical skill, and coding skills!
+- 🌱 I’m currently learning JavaScript through a prep course.
+- 💞️ I self taught python and applied the skills in scripting for our data processing pipeline at my job.
 - 📫 Feel free to connect with me at [brenda.phans@gmail.com or my LinkedIn](https://www.linkedin.com/in/brenda-phansukhumthana-387423158/)
 
 <!---
